@@ -9,14 +9,17 @@ Estimating future sales is the major aspect of the numerous distributions, manuf
 * Sales forecasts help sales teams achieve their goals by identifying early warning signals in their sales pipeline
 * In this project we will estimate sales for Big Mart using regression techniques
 
-Problem Definition : The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales.
+### Problem Definition : 
+The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales.
 
-Business Goal : Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
+### Business Goal : 
+Using this model, BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
 
-Project Objective : We will convert this problem into a machine learning regression problem . We will build a predictive model to predict the sales of each product at a particular outlet.
+### Project Objective : 
+We will convert this problem into a machine learning regression problem . We will build a predictive model to predict the sales of each product at a particular outlet.
 
 **Data Mining Technique to be used : Regression**
-**MODELS USED:**
+### **MODELS USED:**
 * OLS Regression
 * Linear Regression
 * Decision Tree
